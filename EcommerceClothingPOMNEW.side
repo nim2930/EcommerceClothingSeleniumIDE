@@ -1,0 +1,522 @@
+{
+  "id": "0ac075d8-3b74-41cc-9a31-26431f591a7b",
+  "version": "2.0",
+  "name": "EcommerceClothingPOMNEW",
+  "url": "http://automationpractice.com/index.php",
+  "tests": [{
+    "id": "30f2350b-392e-4de0-b36c-a29ca9e7ce72",
+    "name": "Untitled",
+    "commands": [{
+      "id": "a2b03ce4-acd9-4e8f-a378-670b241ec942",
+      "comment": "",
+      "command": "open",
+      "target": "http://automationpractice.com/index.php",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0b290c3f-80e3-48c4-ad1f-f4312cde0cb2",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x840",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "09b64656-3c64-41f8-8a90-335acf0bdb06",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sfHover > .sf-with-ul",
+      "targets": [
+        ["css=.sfHover > .sf-with-ul", "css:finder"],
+        ["xpath=//a[contains(text(),'Women')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=3&controller=category']", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "07b5eadb-ab87-4f09-8c38-c4f6764c062b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sfHover > .sf-with-ul",
+      "targets": [
+        ["css=.sfHover > .sf-with-ul", "css:finder"],
+        ["xpath=//a[contains(text(),'Women')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=3&controller=category']", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "618f9a89-f560-4609-97e0-82bece4371fe",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.sfHover > .sf-with-ul",
+      "targets": [
+        ["css=.sfHover > .sf-with-ul", "css:finder"],
+        ["xpath=//a[contains(text(),'Women')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=3&controller=category']", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "14e8df0e-8572-4d78-b575-2dc734d2d4cf",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=T-shirts",
+      "targets": [
+        ["linkText=T-shirts", "linkText"],
+        ["css=.submenu-container > .sfHover .sfHover > a", "css:finder"],
+        ["xpath=//a[contains(text(),'T-shirts')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/ul/li/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=5&controller=category']", "xpath:href"],
+        ["xpath=//li/ul/li/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'T-shirts')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "808ad574-bf87-471a-9562-8ef3d48d10b7",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=T-shirts",
+      "targets": [
+        ["linkText=T-shirts", "linkText"],
+        ["css=.submenu-container > .sfHover .sfHover > a", "css:finder"],
+        ["xpath=//a[contains(text(),'T-shirts')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/ul/li/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=5&controller=category']", "xpath:href"],
+        ["xpath=//li/ul/li/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'T-shirts')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ce4ba42e-2c9b-4911-8805-3aaf27a93b46",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=T-shirts",
+      "targets": [
+        ["linkText=T-shirts", "linkText"],
+        ["css=.submenu-container > .sfHover .sfHover > a", "css:finder"],
+        ["xpath=//a[contains(text(),'T-shirts')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/ul/li/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=5&controller=category']", "xpath:href"],
+        ["xpath=//li/ul/li/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'T-shirts')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ffc40a61-dd93-4ee1-8c75-456cefc94d3c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.submenu-container > .sfHover > ul",
+      "targets": [
+        ["css=.submenu-container > .sfHover > ul", "css:finder"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/ul/li/ul", "xpath:idRelative"],
+        ["xpath=//li/ul/li/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b6d2ee48-2ef9-40ea-906c-fc56ce5c25c0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sfHover > .sf-with-ul",
+      "targets": [
+        ["css=.sfHover > .sf-with-ul", "css:finder"],
+        ["xpath=//a[contains(text(),'Women')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=3&controller=category']", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7f662f5a-0347-4140-91c3-f073a4eeea14",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=T-shirts",
+      "targets": [
+        ["linkText=T-shirts", "linkText"],
+        ["css=.submenu-container > .sfHover .sfHover > a", "css:finder"],
+        ["xpath=//a[contains(text(),'T-shirts')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/ul/li/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=5&controller=category']", "xpath:href"],
+        ["xpath=//li/ul/li/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'T-shirts')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bc9607e5-dbef-40ea-bd6b-681fbf97c933",
+      "comment": "",
+      "command": "click",
+      "target": "css=.product_list",
+      "targets": [
+        ["css=.product_list", "css:finder"],
+        ["xpath=//div[@id='center_column']/ul", "xpath:idRelative"],
+        ["xpath=//div[3]/div[2]/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d78bb5e7-9f8a-4395-b966-e52e963e0328",
+      "comment": "",
+      "command": "click",
+      "target": "css=.product_img_link > .replace-2x",
+      "targets": [
+        ["css=.product_img_link > .replace-2x", "css:finder"],
+        ["xpath=//img[@alt='Faded Short Sleeve T-shirts']", "xpath:img"],
+        ["xpath=//div[@id='center_column']/ul/li/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//li/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "be4b80cc-d7a2-48c2-9caf-7a5f72b0c036",
+      "comment": "",
+      "command": "click",
+      "target": "css=.icon-plus",
+      "targets": [
+        ["css=.icon-plus", "css:finder"],
+        ["xpath=//p[@id='quantity_wanted_p']/a[2]/span/i", "xpath:idRelative"],
+        ["xpath=//a[2]/span/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "aecd33b3-09cb-447e-b60d-5acf9b929327",
+      "comment": "",
+      "command": "click",
+      "target": "id=group_1",
+      "targets": [
+        ["id=group_1", "id"],
+        ["name=group_1", "name"],
+        ["css=#group_1", "css:finder"],
+        ["xpath=//select[@id='group_1']", "xpath:attributes"],
+        ["xpath=//div[@id='uniform-group_1']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ee59fc3e-dbb6-4145-bddb-af24083158b2",
+      "comment": "",
+      "command": "select",
+      "target": "id=group_1",
+      "targets": [],
+      "value": "label=M"
+    }, {
+      "id": "bbebd99d-36ff-447a-b867-159b7bf5c05c",
+      "comment": "",
+      "command": "click",
+      "target": "id=color_14",
+      "targets": [
+        ["id=color_14", "id"],
+        ["name=Blue", "name"],
+        ["css=#color_14", "css:finder"],
+        ["xpath=//a[@id='color_14']", "xpath:attributes"],
+        ["xpath=//ul[@id='color_to_pick_list']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[@href='http://automationpractice.com/index.php?id_product=1&controller=product'])[3]", "xpath:href"],
+        ["xpath=//fieldset[2]/div/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b3926ea5-d726-480a-b942-03910b9f9c8d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.columns-container",
+      "targets": [
+        ["css=.columns-container", "css:finder"],
+        ["xpath=//div[@id='page']/div[2]", "xpath:idRelative"],
+        ["xpath=//body/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1c60894c-8aad-4fe9-8551-6046c57288e4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.exclusive > span",
+      "targets": [
+        ["css=.exclusive > span", "css:finder"],
+        ["xpath=//p[@id='add_to_cart']/button/span", "xpath:idRelative"],
+        ["xpath=//div[3]/div/p/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Add to cart')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "83e72429-ff57-4327-bf5b-926d021e817e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.columns-container",
+      "targets": [
+        ["css=.columns-container", "css:finder"],
+        ["xpath=//div[@id='page']/div[2]", "xpath:idRelative"],
+        ["xpath=//body/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f61f6389-71c7-48b5-9f8c-6b6fe24e706b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.columns-container",
+      "targets": [
+        ["css=.columns-container", "css:finder"],
+        ["xpath=//div[@id='page']/div[2]", "xpath:idRelative"],
+        ["xpath=//body/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3da5b5e1-a599-4f20-becc-5852fccc724e",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=.button-medium > span",
+      "targets": [
+        ["css=.button-medium > span", "css:finder"],
+        ["xpath=//div[@id='layer_cart']/div/div[2]/div[4]/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Proceed to checkout')]", "xpath:innerText"]
+      ],
+      "value": "104.79998779296875,24.987518310546875"
+    }, {
+      "id": "fd6082f8-b796-4737-9e03-96cfd55f5750",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=.button-medium > span",
+      "targets": [
+        ["css=.button-medium > span", "css:finder"],
+        ["xpath=//div[@id='layer_cart']/div/div[2]/div[4]/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Proceed to checkout')]", "xpath:innerText"]
+      ],
+      "value": "104.79998779296875,24.987518310546875"
+    }, {
+      "id": "47b06068-a242-4758-aedb-3ad41b3da2b6",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=.button-medium > span",
+      "targets": [
+        ["css=.button-medium > span", "css:finder"],
+        ["xpath=//div[@id='layer_cart']/div/div[2]/div[4]/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Proceed to checkout')]", "xpath:innerText"]
+      ],
+      "value": "104.79998779296875,24.987518310546875"
+    }, {
+      "id": "b897a20c-1ddb-4248-82f2-60fa27ff7811",
+      "comment": "",
+      "command": "click",
+      "target": "css=.button-medium > span",
+      "targets": [
+        ["css=.button-medium > span", "css:finder"],
+        ["xpath=//div[@id='layer_cart']/div/div[2]/div[4]/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Proceed to checkout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6869dd81-c36f-458f-ac45-5b9ddfce8d89",
+      "comment": "",
+      "command": "click",
+      "target": "css=.standard-checkout > span",
+      "targets": [
+        ["css=.standard-checkout > span", "css:finder"],
+        ["xpath=//div[@id='center_column']/p[2]/a/span", "xpath:idRelative"],
+        ["xpath=//div[3]/div/p[2]/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "21dd3e87-a815-4e01-a09e-29c4d37e3a3d",
+      "comment": "",
+      "command": "click",
+      "target": "id=social_block",
+      "targets": [
+        ["id=social_block", "id"],
+        ["css=#social_block", "css:finder"],
+        ["xpath=//section[@id='social_block']", "xpath:attributes"],
+        ["xpath=//footer[@id='footer']/div/section", "xpath:idRelative"],
+        ["xpath=//section", "xpath:position"],
+        ["xpath=//section[contains(.,'Follow us')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ca17d45-92ad-4c6f-99a0-b979fab24393",
+      "comment": "",
+      "command": "click",
+      "target": "id=social_block",
+      "targets": [
+        ["id=social_block", "id"],
+        ["css=#social_block", "css:finder"],
+        ["xpath=//section[@id='social_block']", "xpath:attributes"],
+        ["xpath=//footer[@id='footer']/div/section", "xpath:idRelative"],
+        ["xpath=//section", "xpath:position"],
+        ["xpath=//section[contains(.,'Follow us')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "129104c9-94af-489b-b457-a0e0cb0a6d37",
+      "comment": "",
+      "command": "click",
+      "target": "css=#create-account_form > .form_content",
+      "targets": [
+        ["css=#create-account_form > .form_content", "css:finder"],
+        ["xpath=//form[@id='create-account_form']/div", "xpath:idRelative"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2ef01c26-717b-4992-9cf5-58993c13e6b9",
+      "comment": "",
+      "command": "click",
+      "target": "id=email_create",
+      "targets": [
+        ["id=email_create", "id"],
+        ["name=email_create", "name"],
+        ["css=#email_create", "css:finder"],
+        ["xpath=//input[@id='email_create']", "xpath:attributes"],
+        ["xpath=//form[@id='create-account_form']/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c6ef6b0a-cb6f-4a61-9ee8-fb85fdd87ec6",
+      "comment": "",
+      "command": "type",
+      "target": "id=email_create",
+      "targets": [
+        ["id=email_create", "id"],
+        ["name=email_create", "name"],
+        ["css=#email_create", "css:finder"],
+        ["xpath=//input[@id='email_create']", "xpath:attributes"],
+        ["xpath=//form[@id='create-account_form']/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "abcdef.gjij@gmail.com"
+    }, {
+      "id": "8b905b84-61ab-4b3f-bdae-e330a44e6d92",
+      "comment": "",
+      "command": "click",
+      "target": "css=#SubmitCreate > span",
+      "targets": [
+        ["css=#SubmitCreate > span", "css:finder"],
+        ["xpath=//button[@id='SubmitCreate']/span", "xpath:idRelative"],
+        ["xpath=//div[3]/button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bdbc4653-fc44-4926-99a1-cea799710248",
+      "comment": "",
+      "command": "click",
+      "target": "css=.required:nth-child(4)",
+      "targets": [
+        ["css=.required:nth-child(4)", "css:finder"],
+        ["xpath=//form[@id='account-creation_form']/div/div[3]", "xpath:idRelative"],
+        ["xpath=//form/div/div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4beda9aa-8986-42f5-82a3-05544237661a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.password",
+      "targets": [
+        ["css=.password", "css:finder"],
+        ["xpath=//form[@id='account-creation_form']/div/div[5]", "xpath:idRelative"],
+        ["xpath=//form/div/div[5]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ba4ddc5b-5f70-4b6f-ada8-8aa5b5bdc3b1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.account_creation:nth-child(1) > .form-group:nth-child(7)",
+      "targets": [
+        ["css=.account_creation:nth-child(1) > .form-group:nth-child(7)", "css:finder"],
+        ["xpath=//form[@id='account-creation_form']/div/div[6]", "xpath:idRelative"],
+        ["xpath=//form/div/div[6]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "47015d1f-f14b-41fb-9756-8947d2f8a7d8",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.account_creation:nth-child(1) > .form-group:nth-child(7)",
+      "targets": [
+        ["css=.account_creation:nth-child(1) > .form-group:nth-child(7)", "css:finder"],
+        ["xpath=//form[@id='account-creation_form']/div/div[6]", "xpath:idRelative"],
+        ["xpath=//form/div/div[6]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8cfaebf0-9289-4cd2-a96b-e970914cb2bc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.account_creation:nth-child(1) > .form-group:nth-child(7)",
+      "targets": [
+        ["css=.account_creation:nth-child(1) > .form-group:nth-child(7)", "css:finder"],
+        ["xpath=//form[@id='account-creation_form']/div/div[6]", "xpath:idRelative"],
+        ["xpath=//form/div/div[6]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "750576e3-ef36-4760-9290-d08152e98c25",
+      "comment": "",
+      "command": "click",
+      "target": "css=.account_creation:nth-child(1) > .form-group:nth-child(7)",
+      "targets": [
+        ["css=.account_creation:nth-child(1) > .form-group:nth-child(7)", "css:finder"],
+        ["xpath=//form[@id='account-creation_form']/div/div[6]", "xpath:idRelative"],
+        ["xpath=//form/div/div[6]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "d8a5e7c4-dc84-4a34-b869-aa73b3144a82",
+    "name": "WomenShoppingCart",
+    "commands": [{
+      "id": "db47ddfc-3481-422b-a9ff-4c706a37dc9e",
+      "comment": "",
+      "command": "open",
+      "target": "http://automationpractice.com/index.php",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4992a2d1-60a0-4316-afac-381796b593cf",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x806",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d3fab8ad-2291-4084-923c-e2b7db6bd925",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='block_top_menu']/ul/li/a",
+      "targets": [
+        ["css=.sfHover > .sf-with-ul", "css:finder"],
+        ["xpath=//a[contains(text(),'Women')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=3&controller=category']", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a937ba72-924e-4293-939e-d11ea16a219a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=T-shirts",
+      "targets": [
+        ["linkText=T-shirts", "linkText"],
+        ["css=.submenu-container > .sfHover .sfHover > a", "css:finder"],
+        ["xpath=//a[contains(text(),'T-shirts')]", "xpath:link"],
+        ["xpath=//div[@id='block_top_menu']/ul/li/ul/li/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://automationpractice.com/index.php?id_category=5&controller=category']", "xpath:href"],
+        ["xpath=//li/ul/li/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'T-shirts')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5dbbc8d2-12bd-4405-951e-1343086a4996",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["30f2350b-392e-4de0-b36c-a29ca9e7ce72"]
+  }],
+  "urls": ["http://automationpractice.com/", "http://automationpractice.com/index.php"],
+  "plugins": []
+}
